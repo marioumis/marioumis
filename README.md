@@ -1,16 +1,26 @@
-## Hi there 👋
+Hey there 👋
 
-<!--
-**marioumis/marioumis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Mariam, a Computer Science student interested in web development and data-related projects.
 
-Here are some ideas to get you started:
+I mostly work with JavaScript — building backend APIs with Express.js and frontend applications with Angular.  
+I’m also exploring data analysis and AI, and slowly adding projects as I learn.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This is a growing profile where I share projects, experiments, and things I’m currently working on.  
+Everything here is built by me, from scratch.
+
+---
+
+### Tools & Tech
+- JavaScript / TypeScript  
+- Express.js, Angular  
+- Python, SQL  
+- Git & GitHub  
+
+---
+
+### A bit about me
+- 💻 I enjoy building clean and practical applications  
+- 📚 I learn best by doing projects  
+- 🚀 Curious, motivated, and always improving  
+
+💼 LinkedIn: www.linkedin.com/in/mariem-redissi-52a874334
